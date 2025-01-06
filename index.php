@@ -58,7 +58,7 @@
     <link id="color-link" rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 
-<body class="theme-color-5">
+<body class="theme-color-6">
 
     <!-- Loader Start -->
     <div class="fullpage-loader">
